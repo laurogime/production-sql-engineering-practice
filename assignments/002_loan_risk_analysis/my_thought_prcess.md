@@ -43,4 +43,8 @@ dbo.loans & dbo.accounts:
 - I now know the problem and how to solve it if I encounter the same one.
 
 ## AFTER ATTEMPT 2:
-- I forget to filter the  
+- I misinterpret the required task by calculating the wrong metrics
+
+## AFTER ATTEMPT 3:
+- I have a mistake of thinking that using join claude twice in the CTE would be an additional cost in the production so I limit myself to atleast use it once. However, I should also consider not only the cost but also if it would answer the business question. My solution leans to a wrong answer.
+- I have found an issue in the Claude's solution because AI had fabricated a column that does not exist
