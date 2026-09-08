@@ -25,4 +25,6 @@ dbo.transactions:
 ## grain:
 - one row per 2024's monthly transaction type and channel
 
-
+## after attempt 1:
+- I correctly structured the queries with some minor issues needed to fix
+- I think this is so far my best first attempt

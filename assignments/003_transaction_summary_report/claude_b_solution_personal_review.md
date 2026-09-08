@@ -1,0 +1,2 @@
+My assessment on Claude's production solution code for assignment 3:
+- Claude has used CAST and ROUNDOFF function in the running total so that the window function queries are all consistent. However, I find it uncessary and would only cause a production cost because the result before this function is already at 2 decimal places.
