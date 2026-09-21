@@ -1,0 +1,1 @@
+-- Now I realize that Claude is correct about checking on about date joined duplicates because it would cause an issue later on. On ym final attempt, I didn't check and place a tiebreaker inside of my query. My only question for Claude's production level query is that, why claude doesn't put any tiebreaker filter in the code?

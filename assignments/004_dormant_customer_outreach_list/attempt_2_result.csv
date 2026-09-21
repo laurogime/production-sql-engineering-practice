@@ -1,0 +1,13 @@
+Column_name,Type,Computed,Length,Prec,Scale,Nullable,TrimTrailingBlanks,FixedLenNullInSource,Collation
+customer_id,nvarchar,no,100,"     ","     ",no,(n/a),(n/a),SQL_Latin1_General_CP1_CI_AS
+first_name,nvarchar,no,100,"     ","     ",no,(n/a),(n/a),SQL_Latin1_General_CP1_CI_AS
+last_name,nvarchar,no,100,"     ","     ",no,(n/a),(n/a),SQL_Latin1_General_CP1_CI_AS
+date_of_birth,date,no,3,"10   ","0    ",no,(n/a),(n/a),NULL
+gender,nvarchar,no,100,"     ","     ",no,(n/a),(n/a),SQL_Latin1_General_CP1_CI_AS
+state,nvarchar,no,100,"     ","     ",no,(n/a),(n/a),SQL_Latin1_General_CP1_CI_AS
+city,nvarchar,no,100,"     ","     ",no,(n/a),(n/a),SQL_Latin1_General_CP1_CI_AS
+employment_status,nvarchar,no,100,"     ","     ",no,(n/a),(n/a),SQL_Latin1_General_CP1_CI_AS
+annual_income_aud,int,no,4,"10   ","0    ",no,(n/a),(n/a),NULL
+credit_score,smallint,no,2,"5    ","0    ",no,(n/a),(n/a),NULL
+date_joined,date,no,3,"10   ","0    ",no,(n/a),(n/a),NULL
+is_active,bit,no,1,"     ","     ",no,(n/a),(n/a),NULL
