@@ -27,5 +27,3 @@ WHERE
     tv.transaction_volume >= 5
     AND c.is_active = 1
 ORDER BY tv.transaction_volume DESC;
-
-
